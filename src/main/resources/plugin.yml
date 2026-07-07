@@ -1,0 +1,6 @@
+name: FirstPlugin
+version: '${version}'
+
+main: com.daichan.firstPlugin.FirstPlugin
+api-version: '26.1.2'
+load: POSTWORLD
