@@ -4,3 +4,8 @@ version: '${version}'
 main: com.daichan.firstPlugin.FirstPlugin
 api-version: '26.1.2'
 load: POSTWORLD
+
+commands:
+  collect:
+    description: Data collection command
+    usage: /collect start <label> | /collect stop
